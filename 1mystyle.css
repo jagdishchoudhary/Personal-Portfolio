@@ -1,0 +1,85 @@
+body{
+    margin: 0 auto;
+    text-align: center;
+    background-color:burlywood;
+    border-style: solid;
+    border-color:dimgrey;
+
+}
+nav li:hover{
+	color: white;
+    background:lightgreen;}
+html{scroll-behavior: smooth !important;}
+header{
+   
+    border-radius: 5px;
+    width:1262px;
+    height: 150px;
+    background-color:gray;
+    position: fixed;
+    top=0px;
+    
+}
+
+nav li{
+    display: inline;
+    padding: 5px;
+    margin-left:45px;
+   text-transform: uppercase;
+    background-color:floralwhite;
+    border-radius: 15px;
+   float: left;  
+    
+}
+div p{
+    float:left;
+}
+nav{
+    
+    background-color:azue;
+    width: 1260px;
+    position: fixed;
+    float:left;
+    
+}
+a{
+    color:chocolate;
+    text-decoration: none;
+}
+section ol{
+    background-color: antiquewhite;
+    list-style: none;
+   
+    font-family: 'Source Sans Pro', sans-serif;
+    
+}
+footer{
+    background-color: gray;
+        padding:10px;
+          color:black;
+    
+}
+img{
+    float:left;
+    border-radius: 50%;
+}
+
+ol div{
+    background-color:white; width: 700px; height: 170px;margin-left: 250px;font-size: 20px;
+    border-radius: 500px;
+    background-color:azure;
+    
+}
+ol div:hover{
+    color:white;
+    background:#465f91 ;}
+h2{
+    background-color:lightgray;
+    width:1200px;
+    text-transform: uppercase;
+    border-bottom-left-radius: 200px;
+    border-bottom-right-radius: 200px;
+    text-justify:auto;
+    font-size: 35px;
+   
+}
