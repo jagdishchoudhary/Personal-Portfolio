@@ -1,0 +1,134 @@
+body{
+    
+    margin: 0 auto;
+    text-align: center;
+    background-color:burlywood;
+   
+    
+}
+
+nav li a:hover{
+	color: black;
+    background:white;
+    border-radius: 0px;
+    font-size:16px;}
+
+nav li:hover{
+	color: black;
+    background:white;
+    font-size:16px;}
+
+
+html{scroll-behavior: smooth !important;}
+
+header{
+   
+    border-radius: 5px;
+    width:1262px;
+    height: 150px;
+    text-align: center;
+    background-color:gray;
+    position: fixed;
+    top=0px; }
+
+nav li{
+    display: inline;
+    padding: 5px;
+    margin-left:45px;
+    text-transform: uppercase;
+    background-color:floralwhite;
+    border-radius: 15px;
+    float: left;}
+
+div p{
+    float:left;
+}
+
+nav{ 
+    background-color:azue;
+    width: 1260px;
+    position: fixed;
+    float:left;
+    
+}
+a{
+    color:chocolate;
+    text-decoration: none;
+}
+section ol{
+    background-color: antiquewhite;
+    list-style: none;
+    font-family: 'Source Sans Pro', sans-serif;}
+
+footer{
+    background-color: gray;
+    padding:10px;
+    color:black;}
+
+img{
+    float:left;
+    border-radius: 50%;}
+
+ol div{
+    background-color:white; width: 700px; height: 170px;margin-left: 250px;font-size: 20px;
+    border-radius: 500px;
+    background-color:azure;}
+
+ol div:hover{
+    color:white;
+    background:#465f91 ;}
+
+h2{
+    background-color:lightgray;
+    width:1200px;
+    text-transform: uppercase;
+    border-bottom-left-radius: 200px;
+    border-bottom-right-radius: 200px;
+    text-justify:auto;
+    font-size: 35px;
+   
+}
+skill_block{
+    width: 600px;
+    text-align: center;
+}
+.block {
+    width: 800px; 
+    margin-left: 140px;
+    border-radius: 30px;
+    background-color: #ddd; 
+}
+.skill{
+    text-align: left;margin-top: 0px; font-size: 30px;  width: 290px; float: left;
+}
+.rate
+{
+    border-radius: 30px; background-color: #04AA6D; margin-top: 35px;
+}
+.skill_name{
+    background-color:dimgrey;
+    margin-left: 140px;
+    color: white;
+    height: 35px;
+    text-align: center;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    
+}
+.c__{
+    color: white; background-color: dimgrey; border-bottom-left-radius: 15px;border-top-left-radius: 15px; text-align: left;font-size: 30px;margin-left: 140px;  width: 300px; float: left;margin-top: 10.5px;height: 35px;
+}
+
+.key_skill{
+    background-color: dimgray;
+    width: 100px;
+    border-radius: 40px;
+}
+.project:hover{
+    color: white;
+    background-color:#465f91;
+}
+.project{
+    width: 600px;margin-left: 350px;border-radius: 40px;
+    background-color: whitesmoke;
+}
